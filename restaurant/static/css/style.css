@@ -1,0 +1,8 @@
+body { margin:0; font-family: Georgia, serif; color:#333; }
+header { background:#495E57; color:#F4CE14; text-align:center; padding:30px 10px; }
+header h1 { margin:0; letter-spacing:.2em; text-transform:uppercase; }
+header p { color:#fff; margin:6px 0 0; }
+main { max-width:800px; margin:30px auto; padding:0 20px; }
+h2 { color:#495E57; }
+code { background:#EDEFEE; padding:2px 6px; border-radius:4px; }
+footer { background:#EDEFEE; text-align:center; padding:20px; font-size:.85rem; color:#666; }
